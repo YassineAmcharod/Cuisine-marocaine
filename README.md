@@ -1,6 +1,6 @@
 # Cuisine_marocaine
 
-#Lien site web : https://yassineamcharod.github.io/Cuisine_marocaine/index.html
+#Lien site web : https://yassineamcharod.github.io/Cuisine-marocaine/
 
 #Page d'accueil:
 
